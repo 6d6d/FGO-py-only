@@ -12,6 +12,7 @@ example目录下提供了些许示例,大致对应以下使用场景:
 plain - 基本的在linux机器上部署的Alas和FGO-py  
 portable - 多数用户使用的portable installer安装的Alas和FGO-py  
 docker - 在docker中运行FGO-py,而Alas在主机中  
+**使用时，将Example里的本系统可运行文件放在AzurLaneAutoSript中，改名为launch(launch.bat)**
 
 本人将Alas和FGO-py分别部署在两个docker容器中,那么,以下是本人实际使用的launch与halt:  
 
